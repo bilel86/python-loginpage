@@ -14,5 +14,5 @@ while True:
         
     else:
         Write.Print("Error try again \n\n", Colors.red, interval=0.1)
-    input('\n press any key to exit ...')
+    
  
